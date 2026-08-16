@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "75ee16ee-7683-4b61-947b-2742adbf8049",
+  "name": "lab escape",
+  "symbol": "bg_lab_escape",
+  "tileColors": "",
+  "filename": "lab escape.png",
+  "width": 31,
+  "height": 19,
+  "imageWidth": 250,
+  "imageHeight": 159
+}

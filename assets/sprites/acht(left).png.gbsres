@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "4b0b6d09-d0db-41ba-bbfa-af7105c769c6",
+  "name": "acht(left)",
+  "symbol": "sprite_acht_left_",
+  "states": [
+    {
+      "id": "71673998-d1f4-4de2-8edb-db7ce5d62666",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "99f9b103-2781-45b9-a755-00531022b7f6",
+          "frames": [
+            {
+              "id": "35000a2e-c844-4cea-b40e-4baa4155be96",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "342f97b2-bb08-4ea7-995c-9460fc389ef6",
+          "frames": [
+            {
+              "id": "df003660-36c4-4b53-bac9-8036a5b7c205",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6227b5c2-9fe2-4416-8709-d86da32e726e",
+          "frames": [
+            {
+              "id": "84c860d4-3399-41e1-a57e-67fe7b024970",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d29a2c7c-8dcf-4a1a-ae7f-fbdbc18bc541",
+          "frames": [
+            {
+              "id": "90c9f6b8-0431-4a00-b795-a72ca8e25c87",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5abacd3d-492e-4be1-96f0-c722bbb73647",
+          "frames": [
+            {
+              "id": "7ddb073d-6b06-4c84-9289-d8a578579d93",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c6a4183b-886e-4d9a-aefa-c1db5d6231f2",
+          "frames": [
+            {
+              "id": "d64300dd-c8ec-453d-b6b1-692d63477ca7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8039a8c6-0c88-45ef-b402-95d82c8526a3",
+          "frames": [
+            {
+              "id": "0b492f79-571f-40a7-b7ce-caedf4c96ce0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0ebc490d-f576-444e-959b-9969fe331147",
+          "frames": [
+            {
+              "id": "9f947548-bea7-44ca-ace1-b9052c5be71b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "acht(left).png",
+  "width": 93,
+  "height": 154,
+  "checksum": "a56375cd4e60878a773fb13976348e544dc61102"
+}

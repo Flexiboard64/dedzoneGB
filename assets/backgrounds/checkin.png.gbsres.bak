@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "4bfc6b30-a5c6-43ec-9ff6-4ac867bbff9e",
+  "name": "checkin",
+  "symbol": "bg_checkin",
+  "tileColors": "",
+  "filename": "checkin.png",
+  "width": 24,
+  "height": 14,
+  "imageWidth": 196,
+  "imageHeight": 114
+}

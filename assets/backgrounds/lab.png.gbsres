@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "c7d0b889-989d-442e-a838-899d70cec1eb",
+  "name": "lab",
+  "symbol": "bg_lab",
+  "tileColors": "",
+  "filename": "lab.png",
+  "width": 36,
+  "height": 19,
+  "imageWidth": 290,
+  "imageHeight": 156
+}

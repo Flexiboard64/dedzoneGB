@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "8b9ff4b4-3d62-4fd6-86be-70c40a8a19aa",
+  "name": "in",
+  "symbol": "bg_in",
+  "tileColors": "0028b+",
+  "filename": "in.png",
+  "width": 21,
+  "height": 31,
+  "imageWidth": 171,
+  "imageHeight": 254
+}

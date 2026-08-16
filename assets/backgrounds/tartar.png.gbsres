@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "afb25442-8913-4621-8c7a-0045039f3df5",
+  "name": "tartar",
+  "symbol": "bg_tartar",
+  "tileColors": "",
+  "filename": "tartar.png",
+  "width": 38,
+  "height": 36,
+  "imageWidth": 304,
+  "imageHeight": 294
+}
