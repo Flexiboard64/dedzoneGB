@@ -1,0 +1,83 @@
+{
+  "_resourceType": "trigger",
+  "id": "282ed6ef-3217-4e81-a2af-ae5ded137821",
+  "name": "",
+  "prefabId": "",
+  "x": 17,
+  "y": 8,
+  "symbol": "trigger_5",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 9,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Congrats Acht!!!\n"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 2,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "text",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "fec1a2b0-0a1a-4c87-a3b3-7040c884232b"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "You compleated \nsanitization!"
+        ],
+        "__section": "behavior",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "text",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "4348bcf9-cf9a-454e-9180-f61d421ee0a1"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "b4c31f63-8fbe-4367-9cc7-2e285ecec4ab",
+        "x": {
+          "type": "number",
+          "value": 8
+        },
+        "y": {
+          "type": "number",
+          "value": 13
+        },
+        "direction": "",
+        "fadeSpeed": 5
+      },
+      "id": "2e9490a1-aa65-473a-886c-a48b3fb5f643"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

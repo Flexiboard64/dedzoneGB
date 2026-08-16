@@ -1,0 +1,91 @@
+{
+  "_resourceType": "scene",
+  "id": "5f68b50e-6233-48b9-9ab7-34c599082c16",
+  "_index": 0,
+  "name": "Scene 1",
+  "backgroundId": "f8b14508-88c5-469b-8ca2-8b6f65ec1763",
+  "tilesetId": "",
+  "width": 23,
+  "height": 22,
+  "type": "PLATFORM",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00126+0f2+0015+0f2+007f+0f4+0013+0f4+0013+0f4+00a+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_1",
+  "x": 268,
+  "y": 131,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Welcome to dedzone\nGB!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "e786c54c-f4ba-42db-b65a-16591f8eff9d"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "This was made by \nLoser234Gaming"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "2390b5b0-6cd2-4d34-8bf1-9abeb51e59cc"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "231d2b7e-1533-4c0e-b3cb-4fd22bb7c555",
+        "x": {
+          "type": "number",
+          "value": 16
+        },
+        "y": {
+          "type": "number",
+          "value": 10
+        },
+        "direction": "",
+        "fadeSpeed": 4
+      },
+      "id": "6846daee-80ae-4d6f-8bb0-dd23f9527ad6"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
